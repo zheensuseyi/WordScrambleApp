@@ -15,5 +15,4 @@ One of the best ways to learn is to write your own code as often as possible, so
 
 
 
-![Alt text](https://github.com/zheensuseyi/WordSscrambleApp/blob/main/WordScramblegif2-ezgif.com-optimize.gif
-)
+![Alt text](https://github.com/zheensuseyi/WordSscrambleApp/blob/main/WordScramblegif2-ezgif.com-optimize.gif)
