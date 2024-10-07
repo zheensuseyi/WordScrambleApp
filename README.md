@@ -3,7 +3,10 @@
 # 100 Days of SwiftUI
 # WordScrambleApp
 
-This is Project 5 for 100 Days of SwiftUI! This app gives a user an 8 letter word and asks them to make new words out of it! If they can successfully guess a valid word out of the root word, then they get a point! (2 points if the new word is over 5 letters). Most of the code was copy pasted from the tutorial but the challenge problems are my code!
+This is Project 5 for 100 Days of SwiftUI.
+This app gives a user an 8 letter word and asks them to make new words out of it! If they can successfully guess a valid word out of the root word, then they get a point! (2 points if the new word is over 5 letters). Most of the code was copy pasted from the tutorial but the challenge problems are my code!
+
+
 Challenge:
 
 
